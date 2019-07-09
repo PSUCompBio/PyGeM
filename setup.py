@@ -5,7 +5,7 @@ def readme():
     """
     This function just return the content of README.md
     """
-    with open('README.md') as f:
+    with open('README.md',encoding="utf-8") as f:
         return f.read()
 
 
