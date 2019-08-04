@@ -1,0 +1,8 @@
+Sphinx==1.4
+enum34
+matplotlib
+numpy
+numpy-stl
+scipy
+sphinx_rtd_theme
+vtk

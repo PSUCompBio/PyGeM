@@ -16,8 +16,8 @@ from .openfhandler import OpenFoamHandler
 from .stlhandler import StlHandler
 from .unvhandler import UnvHandler
 from .vtkhandler import VtkHandler
-from .nurbshandler import NurbsHandler
-from .stephandler import StepHandler
-from .igeshandler import IgesHandler
+#from .nurbshandler import NurbsHandler
+#from .stephandler import StepHandler
+#from .igeshandler import IgesHandler
 from .khandler import KHandler
 from .params import *
