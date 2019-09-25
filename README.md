@@ -1,3 +1,9 @@
+# Testing on nsfcareer.io
+cd PyGem/tutorials
+python3 RBFfinal.py
+Do you get a finalmesh.vtk?
+
+# Previous readme
 <p align="center">
   <a href="http://mathlab.github.io/PyGeM/" target="_blank" >
     <img alt="Python Geometrical Morphing" src="docs/source/_static/logo_PyGeM.png" width="200" />
